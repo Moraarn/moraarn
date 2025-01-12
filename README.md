@@ -1,7 +1,7 @@
 ![Hey, I'm Ruth Moraa , Welcome to my Profile!!! animated typed out](https://readme-typing-svg.demolab.com?font=monospace&size=40&duration=2800&pause=2000&color=964B00&center=false&vCenter=true&width=940&lines=Hey%2C+I'm+Moraa+Ruth,+Welcome+to+my+github!)
 
 ## Profile Views
-![Profile Views](https://profile-counter.glitch.me/moraar222/count.svg)
+![Profile Views](https://profile-counter.glitch.me/moraarn/count.svg)
 
 ## About me
 - 🔭 I’m currently working on Mobile Applications
@@ -30,16 +30,16 @@
 ## Github Statistics
 
 ### Activity
-![Ruth Moraah Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moraar222&custom_title=Moraar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A60F&line=58A60F&point=F8D847&area_color=0D1117&title_color=58A6FF&area=true)
+![Ruth Moraah Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moraarn&custom_title=Moraar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A60F&line=58A60F&point=F8D847&area_color=0D1117&title_color=58A6FF&area=true)
 
 ### Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=moraar222&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7&title_color=2ED573)
+![Trophy](https://github-profile-trophy.vercel.app/?username=moraarn&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7&title_color=2ED573)
 
 ### Streak 
-![Streaks Graph](https://streak-stats.demolab.com?user=moraar222&theme=dark)
+![Streaks Graph](https://streak-stats.demolab.com?user=moraarn&theme=dark)
 
 ### Contributions
-![Stats Graph](https://github-readme-stats.vercel.app/api?username=moraar222&theme=dark&show_icons=true&count_private=true)
+![Stats Graph](https://github-readme-stats.vercel.app/api?username=moraarn&theme=dark&show_icons=true&count_private=true)
 
   
 
