@@ -1,8 +1,5 @@
 ![Hey, I'm Ruth Moraa, Welcome to my Profile!!! animated typed out](https://readme-typing-svg.demolab.com?font=monospace&size=40&duration=2800&pause=2000&color=964B00&center=false&vCenter=true&width=940&lines=Hey%2C+I'm+Moraah+Ruth,+Welcome+to+my+github!)
 
-## Profile Views
-![Profile Views](https://profile-counter.glitch.me/moraarn/count.svg)
-
 ## About me
 - 🔭 I’m currently working on Mobile Applications
 - 🌱 I’m currently learning Machine Learning and Data Science
